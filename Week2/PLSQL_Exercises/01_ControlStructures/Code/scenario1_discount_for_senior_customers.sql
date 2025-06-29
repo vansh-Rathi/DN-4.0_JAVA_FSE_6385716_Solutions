@@ -5,7 +5,7 @@ DECLARE
 BEGIN
     FOR rec IN (
         SELECT c.CustomerID, l.LoanID, l.InterestRate,
-               TRUNC(MONTHS_BETWEEN(SYSDATE, c.DOB) / 12) AS Age
+            TRUNC(MONTHS_BETWEEN(SYSDATE, c.DOB) / 12) AS Age
         FROM Customers c
         JOIN Loans l ON c.CustomerID = l.CustomerID
     ) LOOP

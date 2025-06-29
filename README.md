@@ -12,21 +12,52 @@ This repository follows a weekly structure. Each Week N folder contains hands-on
 
 ```
 DN-4.0_JAVA_FSE_6385716_Solutions/
-  - Week1/
-    - Week1_DataStructuresAndAlgorithms/
-      - 01_Exercise_EcommerceSearch/
-        - Code/
-        - Output/
-      - 02_Exercise_FinancialForecasting/
-        - Code/
-        - Output/
-    - Week1_DesignPrinciplesAndPatterns/
-      - 01_Exercise_SingletonPattern/
-        - Code/
-        - Output/
-      - 02_Exercise_FactoryMethodPattern/
-        - Code/
-        - Output/
+├── Week1/
+│   ├── Week1_DataStructuresAndAlgorithms/
+│   │   ├── 01_Exercise_EcommerceSearch/
+│   │   │   ├── Code/
+│   │   │   └── Output/
+│   │   └── 02_Exercise_FinancialForecasting/
+│   │       ├── Code/
+│   │       └── Output/
+│   └── Week1_DesignPrinciplesAndPatterns/
+│       ├── 01_Exercise_SingletonPattern/
+│       │   ├── Code/
+│       │   └── Output/
+│       └── 02_Exercise_FactoryMethodPattern/
+│           ├── Code/
+│           └── Output/
+└── Week2/
+    ├── PLSQL_Exercises/
+    │   ├── 01_ControlStructures/
+    │   │   ├── Code/
+    │   │   └── Output/
+    │   └── 03_StoredProcedures/
+    │       ├── Code/
+    │       └── Output/
+    └── Week2_TDD_And_Logging/
+        ├── JUnit_Basic/
+        │   ├── Exercise1_SettingUpJUnit/
+        │   │   ├── Code/
+        │   │   └── Output/
+        │   ├── Exercise3_Assertions/
+        │   │   ├── Code/
+        │   │   └── Output/
+        │   └── Exercise4_AAA_Fixtures/
+        │       ├── Code/
+        │       └── Output/
+        ├── Mockito/
+        │   ├── Exercise1_MockingAndStubbing/
+        │   │   ├── Code/
+        │   │   └── Output/
+        │   └── Exercise2_VerifyingInteractions/
+        │       ├── Code/
+        │       └── Output/
+        └── SLF4J_Logging/
+            └── Exercise1_ErrorAndWarnings/
+                ├── Code/
+                └── Output/
+```
 
-## Output Files
-Each exercise includes output screenshots demonstrating the execution results, stored in the respective `Output/` directories.
+## 📸 Output Files
+Each exercise includes output screenshots and documentation demonstrating the execution results, stored in the respective `Output/` directories.
