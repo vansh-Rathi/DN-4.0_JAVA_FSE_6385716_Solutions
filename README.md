@@ -15,48 +15,32 @@ DN-4.0_JAVA_FSE_6385716_Solutions/
 ├── Week1/
 │   ├── Week1_DataStructuresAndAlgorithms/
 │   │   ├── 01_Exercise_EcommerceSearch/
-│   │   │   ├── Code/
-│   │   │   └── Output/
 │   │   └── 02_Exercise_FinancialForecasting/
-│   │       ├── Code/
-│   │       └── Output/
 │   └── Week1_DesignPrinciplesAndPatterns/
 │       ├── 01_Exercise_SingletonPattern/
-│       │   ├── Code/
-│       │   └── Output/
 │       └── 02_Exercise_FactoryMethodPattern/
-│           ├── Code/
-│           └── Output/
-└── Week2/
-    ├── PLSQL_Exercises/
-    │   ├── 01_ControlStructures/
-    │   │   ├── Code/
-    │   │   └── Output/
-    │   └── 03_StoredProcedures/
-    │       ├── Code/
-    │       └── Output/
-    └── Week2_TDD_And_Logging/
-        ├── JUnit_Basic/
-        │   ├── Exercise1_SettingUpJUnit/
-        │   │   ├── Code/
-        │   │   └── Output/
-        │   ├── Exercise3_Assertions/
-        │   │   ├── Code/
-        │   │   └── Output/
-        │   └── Exercise4_AAA_Fixtures/
-        │       ├── Code/
-        │       └── Output/
-        ├── Mockito/
-        │   ├── Exercise1_MockingAndStubbing/
-        │   │   ├── Code/
-        │   │   └── Output/
-        │   └── Exercise2_VerifyingInteractions/
-        │       ├── Code/
-        │       └── Output/
-        └── SLF4J_Logging/
-            └── Exercise1_ErrorAndWarnings/
-                ├── Code/
-                └── Output/
+├── Week2/
+│   ├── PLSQL_Exercises/
+│   │   ├── 01_ControlStructures/
+│   │   └── 03_StoredProcedures/
+│   └── Week2_TDD_And_Logging/
+│       ├── JUnit_Basic/
+│       │   ├── Exercise1_SettingUpJUnit/
+│       │   ├── Exercise3_Assertions/
+│       │   └── Exercise4_AAA_Fixtures/
+│       ├── Mockito/
+│       │   ├── Exercise1_MockingAndStubbing/
+│       │   └── Exercise2_VerifyingInteractions/
+│       └── SLF4J_Logging/
+│           └── Exercise1_ErrorAndWarnings/
+└── Week3/
+    ├── 1_Spring_Core_and_Maven/
+    │   ├── Exercise1_ConfiguringBasicSpringApplication/
+    │   ├── Exercise2_ImplementingDependencyInjection/
+    │   └── Exercise4_CreatingAndConfiguringMavenProject/
+    └── 2_Spring_Data_JPA_SpringBoot_Hibernate/
+        ├── 1_QuickExample/
+        └── 2_Difference_JPA_Hibernate_SpringData/
 ```
 
 ## 📸 Output Files
