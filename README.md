@@ -33,14 +33,23 @@ DN-4.0_JAVA_FSE_6385716_Solutions/
 │       │   └── Exercise2_VerifyingInteractions/
 │       └── SLF4J_Logging/
 │           └── Exercise1_ErrorAndWarnings/
-└── Week3/
-    ├── 1_Spring_Core_and_Maven/
-    │   ├── Exercise1_ConfiguringBasicSpringApplication/
-    │   ├── Exercise2_ImplementingDependencyInjection/
-    │   └── Exercise4_CreatingAndConfiguringMavenProject/
-    └── 2_Spring_Data_JPA_SpringBoot_Hibernate/
-        ├── 1_QuickExample/
-        └── 2_Difference_JPA_Hibernate_SpringData/
+├── Week3/
+│   ├── 1_Spring_Core_and_Maven/
+│   │   ├── Exercise1_ConfiguringBasicSpringApplication/
+│   │   ├── Exercise2_ImplementingDependencyInjection/
+│   │   └── Exercise4_CreatingAndConfiguringMavenProject/
+│   └── 2_Spring_Data_JPA_SpringBoot_Hibernate/
+│       ├── 1_QuickExample/
+│       └── 2_Difference_JPA_Hibernate_SpringData/
+└── Week4/
+    ├── 1_spring-rest-handson/
+    │   ├── 1_create-spring-web-maven/
+    │   ├── 2_load-country-xml/
+    │   ├── 3_hello-world-rest/
+    │   ├── 4_rest-country-webservice/
+    │   └── 5_rest-country-by-code/
+    └── 2_jwt-handson/
+        └── 1_jwt-authentication-service/
 ```
 
 ## 📸 Output Files
