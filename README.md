@@ -41,15 +41,23 @@ DN-4.0_JAVA_FSE_6385716_Solutions/
 │   └── 2_Spring_Data_JPA_SpringBoot_Hibernate/
 │       ├── 1_QuickExample/
 │       └── 2_Difference_JPA_Hibernate_SpringData/
-└── Week4/
-    ├── 1_spring-rest-handson/
-    │   ├── 1_create-spring-web-maven/
-    │   ├── 2_load-country-xml/
-    │   ├── 3_hello-world-rest/
-    │   ├── 4_rest-country-webservice/
-    │   └── 5_rest-country-by-code/
-    └── 2_jwt-handson/
-        └── 1_jwt-authentication-service/
+├── Week4/
+│   ├── 1_spring-rest-handson/
+│   │   ├── 1_create-spring-web-maven/
+│   │   ├── 2_load-country-xml/
+│   │   ├── 3_hello-world-rest/
+│   │   ├── 4_rest-country-webservice/
+│   │   └── 5_rest-country-by-code/
+│   └── 2_jwt-handson/
+│       └── 1_jwt-authentication-service/
+└── Week5/
+    ├── Code/
+    │   └── microservices/
+    │       ├── loan/
+    │       └── account/
+    └── Output/
+        ├── Loans_Output.png
+        └── Acoounts_Output.png
 ```
 
 ## 📸 Output Files
